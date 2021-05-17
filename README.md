@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Get in touch
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" />][linkedin]
+[twitter]: https://twitter.com/wayfaringjou
+[linkedin]: https://www.linkedin.com/in/joel-del-cueto
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wayfaringjou&layout=compact)](https://github.com/wayfaringjou/github-readme-stats)
+
