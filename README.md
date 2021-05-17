@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/gmail.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/gmail.svg" />][gmail]
+<br>
 <br>
 
 [twitter]: https://twitter.com/wayfaringjou
