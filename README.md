@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 ### 🔭 I’m currently working on 
 - I'm working on projects to gain experience and add to my portfolio.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### 👯 I’m looking to collaborate on
 - I'm looking for a job as a javascript developer. I'm intrested in front end or back end projects.
-
+-->
 ### 📫 How to reach me:
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4/icons/linkedin.svg" />][linkedin]
